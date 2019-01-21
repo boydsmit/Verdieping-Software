@@ -3,7 +3,9 @@
 Een rail shooter is een spelvorm waarbij de speler automatisch een voorgedefinieerd pad volgt. Tijdens zijn route interacteert hij met de omgeving, vaak in de vorm van schieten. Voorbeelden van games zijn oa. Coaster Combat, en shooter (zombie) games welke je in arcadehallen tegenkomt.
 
 ## Software Anaylse 
-Er is keuze uit JavaScript, Unity(C#) en Unreal Engine (C++). JavaScript is vaak alleen mogelijk voor browser games hierdoor kan de game niet al te groot worden ook is het nodig om een externe library te gebruiken om in 3D te kunnen werken. het is dus beter om echt een Game Engine te kiezen voor deze game zoals Unity of Unreal Engine. C# regelt dit daarintegen zelf. 
+Er is keuze uit JavaScript, Unity(C#) en Unreal Engine (C++). 
+
+JavaScript is vaak alleen mogelijk voor browser games hierdoor kan de game niet al te groot worden ook is het nodig om een externe library te gebruiken om in 3D te kunnen werken. het is dus beter om echt een Game Engine te kiezen voor deze game zoals Unity of Unreal Engine. 
 
 Problemen met Unreal Engine zijn bijvoorbeeld dat de Engine weigert op te starten zodra er een error is, De community voor hulp redelijk beperkt is en het compilen van code om te testen langdurig is. Dit heeft uiteindelijk geen effect op het eindproduct.
 
@@ -14,9 +16,9 @@ Omdat Unreal Engine in C++ werkt heb je veel controle over hoe het geheugen word
 Uiteindelijk kies ik alsnog voor Unity omdat ik geen C++ kan en omdat ik meer ervaren ben in Unity.
 
 ## Leerdoelen 
-- Automatische camera movement over de map
-- VR controller programmeren
-- Kennis Unity en C# verbreden
+- Het maken van het rail systeem. (zorgen dat de camera animeert over de map en daarmee ook de speler)
+- Het maken van een VR aiming systeem. 
+- Algemene kennis Unity en C# verbreden
 
 ## Planning 
 
