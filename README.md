@@ -18,10 +18,3 @@ Uiteindelijk kies ik alsnog voor Unity omdat ik geen C++ kan en omdat ik meer er
 | --- | --- | --- | --- | --- | --- |
 |week 1 |Trello opzetten | Unity project opzetten met Github | Programmeren aan automatische movement | programmeren aan controls | Enemies programmeren |  
 |week 2 | bugs fixen | scenes bouwen | Code door kijken onnodige weghalen | ReadMe schrijven | ReadMe schrijven |
-
-## Bronnen
-Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
-
-- [The Guide To Game Design](link)
-- [Alleatoric Algorithms](link)
-- [Flood-Fill Wikipedia](link)
